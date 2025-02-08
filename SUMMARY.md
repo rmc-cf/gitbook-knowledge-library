@@ -15,3 +15,7 @@
 
 * [系统工程](system-architect/system-engineering.md)
 * [信息安全技术](system-architect/information-security-technology.md)
+
+***
+
+* [💪 和我一起](he-wo-yi-qi.md)
