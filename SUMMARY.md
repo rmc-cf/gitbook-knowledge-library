@@ -13,5 +13,5 @@
 
 ## 系统架构师备考 <a href="#system-architect" id="system-architect"></a>
 
-* [😇 系统工程](system-architect/system-engineering.md)
-* [🥹 信息安全技术](system-architect/information-security-technology.md)
+* [系统工程](system-architect/system-engineering.md)
+* [信息安全技术](system-architect/information-security-technology.md)
