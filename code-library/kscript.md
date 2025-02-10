@@ -69,3 +69,14 @@ export const imgToWebpUrl = (url: string, size?: string | number): string => {
 }
 ```
 {% endcode %}
+
+<pre class="language-javascript"><code class="lang-javascript">// 快递100接入
+<strong>        param = JSON.stringify(param)
+</strong>        // param + key + customer: md5加密
+        let rawSign = `${param}${obj.sign}${obj.customer}`
+        rawSign = k.security.md5(rawSign)
+        let url = `https://poll.kuaidi100.com/poll/query.do?customer=${obj.customer}&#x26;sign=${rawSign}&#x26;param=${param}`
+        let result = k.net.url.post(url, {})
+        item.logisticsData = JSON.parse(result).data || []
+        return item
+</code></pre>
