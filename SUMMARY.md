@@ -18,10 +18,6 @@
 * [小结](system-architect/tips/README.md)
   * [2025.2.10](system-architect/tips/2025.2.10.md)
 
-***
-
-* [Page 1](page-1.md)
-
 ## 社媒技巧 <a href="#social-tips" id="social-tips"></a>
 
 * [分享脚本](social-tips/fen-xiang-jiao-ben.md)
