@@ -16,10 +16,10 @@
 * [系统工程](system-architect/system-engineering.md)
 * [信息安全技术](system-architect/information-security-technology.md)
 
-***
-
-* [💪 和我一起](he-wo-yi-qi.md)
-
 ## 社媒技巧 <a href="#social-tips" id="social-tips"></a>
 
 * [分享标签](social-tips/fen-xiang-biao-qian.md)
+
+***
+
+* [💪 和我一起](he-wo-yi-qi.md)
