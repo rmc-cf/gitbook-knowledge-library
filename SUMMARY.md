@@ -18,6 +18,7 @@
 
 ## 社媒技巧 <a href="#social-tips" id="social-tips"></a>
 
+* [分享脚本](social-tips/fen-xiang-jiao-ben.md)
 * [分享标签](social-tips/fen-xiang-biao-qian.md)
 
 ***
