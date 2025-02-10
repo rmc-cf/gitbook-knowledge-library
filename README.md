@@ -60,6 +60,6 @@ layout:
 * **Vue 深度**：Vue Mastery 互动课程
 * **架构思维**：《Designing Data-Intensive Applications》精读
 
-### Jump right in
+### Online Project
 
 <table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>RMC Currency Converter</strong></td><td><a href="https://rmc-cf.github.io/currency-converter/">Online Currency Converter</a></td><td><a href=".gitbook/assets/2.png">2.png</a></td><td></td><td><a href="getting-started/focusing.md">focusing.md</a></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
