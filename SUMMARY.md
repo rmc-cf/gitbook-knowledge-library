@@ -20,6 +20,8 @@
 
 * [分享脚本](social-tips/fen-xiang-jiao-ben.md)
 * [分享标签](social-tips/fen-xiang-biao-qian.md)
+* [工具脚本](social-tips/utils/README.md)
+  * [导出Excel](social-tips/utils/export-excel.md)
 
 ***
 
