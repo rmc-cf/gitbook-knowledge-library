@@ -7,10 +7,6 @@
 * [正在专注](getting-started/focusing.md)
 * [发布的网站](getting-started/publish.md)
 
-## 代码库 <a href="#code-library" id="code-library"></a>
-
-* [KScript](code-library/kscript.md)
-
 ## 系统架构师备考 <a href="#system-architect" id="system-architect"></a>
 
 * [系统工程](system-architect/system-engineering.md)
