@@ -15,6 +15,12 @@
 
 * [系统工程](system-architect/system-engineering.md)
 * [信息安全技术](system-architect/information-security-technology.md)
+* [小结](system-architect/tips/README.md)
+  * [2025.2.10](system-architect/tips/2025.2.10.md)
+
+***
+
+* [Page 1](page-1.md)
 
 ## 社媒技巧 <a href="#social-tips" id="social-tips"></a>
 
