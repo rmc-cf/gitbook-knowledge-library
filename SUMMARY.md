@@ -13,6 +13,7 @@
 * [信息安全技术](system-architect/information-security-technology.md)
 * [小结](system-architect/tips/README.md)
   * [2025.2.10](system-architect/tips/2025.2.10.md)
+  * [2025.2.11](system-architect/tips/2025.2.11.md)
 
 ## 社媒技巧 <a href="#social-tips" id="social-tips"></a>
 
