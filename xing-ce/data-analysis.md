@@ -33,9 +33,45 @@ $$
 
 
 $$
-增长量=(现期量*r)/(1+r)
+同比增长量=(现期量*r)/(1+r)
 $$
 
 
 
 <mark style="color:purple;">饼图占比</mark>可以看其中几个的<mark style="color:purple;">倍数</mark> 即白色区域约是黑色区域的2倍
+
+
+
+$$
+基期量=现期量/(1+增长率)
+$$
+
+
+
+$$
+增长率=(现期量-基期量)/基期量
+$$
+
+
+
+两期<mark style="color:purple;">比重差</mark>&#x20;
+
+<mark style="color:purple;">研发经费（A）</mark>占<mark style="color:purple;">业务收入的比重（B）</mark>比上年下降了约多少个百分点
+
+
+
+$$
+(A/B)*((a-b)/(1+a))，其中A为分子，B为占比的大比重
+$$
+
+
+
+
+
+
+
+
+
+
+
+\=
