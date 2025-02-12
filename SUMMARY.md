@@ -15,6 +15,11 @@
   * [2025.2.10](system-architect/tips/2025.2.10.md)
   * [2025.2.11](system-architect/tips/2025.2.11.md)
 
+***
+
+* [行测](xing-ce/README.md)
+  * [资料分析](xing-ce/data-analysis.md)
+
 ## 社媒技巧 <a href="#social-tips" id="social-tips"></a>
 
 * [分享脚本](social-tips/fen-xiang-jiao-ben.md)
