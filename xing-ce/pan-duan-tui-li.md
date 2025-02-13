@@ -35,6 +35,12 @@
 * 九宫格<mark style="color:purple;">优先横向看</mark>
 * 首要是<mark style="color:purple;">运算规律</mark>，<mark style="color:purple;">黑白运算</mark>
 
+<mark style="color:red;">难度系数：高</mark>
+
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+
+整体无规律，通过相邻比较发现，图1和图2只有第一行黑块位置不同（第一行黑白块颜色互换），其他四行黑块位置相同；图2和图3只有第二行黑块位置不同（第二行黑白块颜色互换），其他四行黑块位置相同；图3和图4只有第三行黑块位置不同（第三行黑白块颜色互换），其他四行黑块位置相同；图4和图5只有第四行黑块位置不同（第四行黑白块颜色互换），其他四行黑块位置相同，以此类推，？处应该选择一个和图5只有第五行黑块位置不同（第五行黑白块颜色互换），其他四行黑块位置相同的图形，只有C项符合。
+
 
 {% endstep %}
 
