@@ -42,6 +42,10 @@
 * 对称轴经过4个黑球以及对称轴经过2个黑球
 
 <figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
