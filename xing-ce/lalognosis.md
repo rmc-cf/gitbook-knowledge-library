@@ -8,4 +8,5 @@
 
 排序：
 
-先确定<mark style="color:purple;">首尾句</mark>和<mark style="color:purple;">替代词</mark>的顺序
+* 先确定<mark style="color:purple;">首尾句</mark>和<mark style="color:purple;">替代词</mark>的顺序
+* 找相同词语 （④⑤两句均提到了“生态”这一话题，按照逻辑顺序应先介绍我国有生态文化，再论述对生态文明建设提出了更高要求，故④句应在⑤句之前）
