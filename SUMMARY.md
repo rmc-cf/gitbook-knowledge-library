@@ -17,6 +17,7 @@
 
 ***
 
+* [申论](shen-lun.md)
 * [行测](xing-ce/README.md)
   * [言语理解](xing-ce/lalognosis.md)
   * [资料分析](xing-ce/data-analysis.md)
