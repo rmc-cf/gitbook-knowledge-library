@@ -7,12 +7,14 @@ description: 必须拿分的点；遇到比较的，可以不用一个一个算�
 
 ······<mark style="color:purple;">同比增量（增长量）</mark>超过······万吨······，可判定本题为增长量比较问题
 
+......<mark style="color:purple;">环比增速</mark>约为：
+
 
 
 <mark style="color:purple;">增长量=现期量-基期量</mark>
 
 $$
-同比增长率 = (现期量-基期量)/基期量
+同比或者环比增长率 = (现期量-基期量)/基期量
 $$
 
 * 几个城市······占全国的<mark style="color:purple;">比重</mark>超过5%
