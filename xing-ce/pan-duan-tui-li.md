@@ -110,6 +110,14 @@ A、B<mark style="color:purple;">至多一个</mark>=><mark style="color:purple;
 
 * 看公共边（由构成直角的两条边为公共边）
 {% endstep %}
+
+{% step %}
+### 笔画
+
+* <mark style="color:purple;">多笔画</mark>同样可以借助奇点进行判定，<mark style="color:purple;">笔画数=奇点数/2</mark>（<mark style="color:purple;">奇点一定是偶数个</mark>）
+* <mark style="color:purple;">一笔画</mark>（1）线条之间连通；（2）奇点数量为0或2（奇点：以一个点为中心，发射出奇数条线）两者都满足
+* 五角星，没有奇点，为一笔画图形
+{% endstep %}
 {% endstepper %}
 
 [^1]: 
