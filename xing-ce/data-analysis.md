@@ -92,3 +92,4 @@ $$
 
 
 
+顺差：<mark style="color:purple;">出口额大于进口额（出口额\*2>进出口总额）</mark>
