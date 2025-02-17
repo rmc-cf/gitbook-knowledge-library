@@ -21,6 +21,7 @@
 * [行测](xing-ce/README.md)
   * [言语理解](xing-ce/lalognosis.md)
   * [资料分析](xing-ce/data-analysis.md)
+  * [数量关系](xing-ce/shu-liang-guan-xi.md)
   * [判断推理](xing-ce/pan-duan-tui-li.md)
 
 ## 社媒技巧 <a href="#social-tips" id="social-tips"></a>
