@@ -44,6 +44,8 @@
 {% endstep %}
 
 {% step %}
+###
+
 ### 排列组合 ★★★
 
 * 和顺序有关联的用A，无关的用C
@@ -52,6 +54,12 @@
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+
+分类加法
+
+<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
