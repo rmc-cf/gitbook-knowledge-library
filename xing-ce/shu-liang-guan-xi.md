@@ -30,6 +30,20 @@
 <figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+
+体积计算：
+
+$$S三棱柱=Sh$$      $$S三棱锥=1/3*Sh$$
+
+
+
+$$
+f(x) = x * e^{2 pi i \xi x}
+$$
+
+
 {% endstep %}
 
 {% step %}
@@ -83,6 +97,8 @@
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
+
+
 
 
 
