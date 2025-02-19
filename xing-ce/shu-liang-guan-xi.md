@@ -37,7 +37,7 @@
 
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -46,13 +46,13 @@
 * 和顺序有关联的用A，无关的用C
 * C需要除以上标的x!
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
 * <mark style="color:purple;">划分组别</mark>
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -68,11 +68,21 @@
 {% step %}
 给效率比例型（赋值工作效率法）
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 
+
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+### 平面几何-面积计算法（面积转换法 同底同高）
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
+
+
 
