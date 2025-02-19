@@ -82,11 +82,21 @@ $$
 {% step %}
 给效率比例型（赋值工作效率法）
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+有给提示：
 
+* 工作效率相同 赋值工作效率
 
+没给提示：
+
+* 赋值工作总量为1
 
 <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -95,6 +105,18 @@ $$
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+### 集合
+
+A+B+C-满足两项-2×满足三项=总数-都不
+
+满足一项+满足两项+满足三项=总数-都不
+
+<figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
