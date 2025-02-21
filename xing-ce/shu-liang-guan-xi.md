@@ -44,12 +44,6 @@
 $$S三棱柱=Sh$$      $$S三棱锥=1/3*Sh$$
 
 
-
-$$
-f(x) = x * e^{2 pi i \xi x}
-$$
-
-
 {% endstep %}
 
 {% step %}
@@ -75,6 +69,14 @@ $$
 <figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+
+* 捆绑法则
+
+<figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+
+甲乙算一起 有7-2\*2=3  3+2=5，A5取2=20（总事件数）
+
+<figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
