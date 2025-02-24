@@ -23,15 +23,4 @@
   * [资料分析](xing-ce/data-analysis.md)
   * [数量关系](xing-ce/shu-liang-guan-xi.md)
   * [判断推理](xing-ce/pan-duan-tui-li.md)
-
-## 社媒技巧 <a href="#social-tips" id="social-tips"></a>
-
-* [分享脚本](social-tips/fen-xiang-jiao-ben.md)
-* [分享标签](social-tips/fen-xiang-biao-qian.md)
-* [图标](social-tips/icons.md)
-* [工具脚本](social-tips/utils/README.md)
-  * [导出Excel](social-tips/utils/export-excel.md)
-
-***
-
 * [💪 和我一起](he-wo-yi-qi.md)
