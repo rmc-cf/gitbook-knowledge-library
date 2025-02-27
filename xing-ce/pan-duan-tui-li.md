@@ -122,6 +122,16 @@ A、B<mark style="color:purple;">至多一个</mark>=><mark style="color:purple;
 * <mark style="color:purple;">一笔画</mark>（1）线条之间连通；（2）奇点数量为0或2（奇点：以一个点为中心，发射出奇数条线）两者都满足
 * <mark style="color:purple;">一笔画秒杀</mark>：五角星；“日”“田”及其变形；
 {% endstep %}
+
+{% step %}
+### 总结
+
+* 面积法 黑色块面积
+
+<figure><img src="../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
+
+
+{% endstep %}
 {% endstepper %}
 
 [^1]: 
