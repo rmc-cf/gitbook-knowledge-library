@@ -127,10 +127,13 @@ A、B<mark style="color:purple;">至多一个</mark>=><mark style="color:purple;
 ### 总结
 
 * 面积法 黑色块面积
+* 切圆变形图，因此考虑笔画数
+* 交点在线段不同位置
+* 旋转角度 每一行或者先是第一行->右边第一列->最后一行->左边第一列
 
 <figure><img src="../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
 
-
+<figure><img src="../.gitbook/assets/193822517829836 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
