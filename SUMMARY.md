@@ -11,16 +11,17 @@
 
 * [系统工程](system-architect/system-engineering.md)
 * [信息安全技术](system-architect/information-security-technology.md)
+* [行测](system-architect/xing-ce/README.md)
+  * [常识判断](system-architect/xing-ce/chang-shi-pan-duan.md)
+  * [言语理解](system-architect/xing-ce/lalognosis.md)
+  * [资料分析](system-architect/xing-ce/data-analysis.md)
+  * [数量关系](system-architect/xing-ce/shu-liang-guan-xi.md)
+  * [判断推理](system-architect/xing-ce/pan-duan-tui-li.md)
+* [申论](system-architect/shen-lun.md)
 * [小结](system-architect/tips/README.md)
   * [2025.2.10](system-architect/tips/2025.2.10.md)
   * [2025.2.11](system-architect/tips/2025.2.11.md)
 
 ***
 
-* [申论](shen-lun.md)
-* [行测](xing-ce/README.md)
-  * [言语理解](xing-ce/lalognosis.md)
-  * [资料分析](xing-ce/data-analysis.md)
-  * [数量关系](xing-ce/shu-liang-guan-xi.md)
-  * [判断推理](xing-ce/pan-duan-tui-li.md)
 * [💪 和我一起](he-wo-yi-qi.md)

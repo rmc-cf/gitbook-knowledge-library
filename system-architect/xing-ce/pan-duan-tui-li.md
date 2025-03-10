@@ -4,11 +4,11 @@
 {% step %}
 ### 图推
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>分为3个部分：面的种类</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>分为3个部分：面的种类</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>考虑对称轴</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>考虑对称轴</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -16,7 +16,7 @@
 * 面的<mark style="color:purple;">种类</mark> ★
 * [<mark style="color:purple;">直线和曲线</mark>出现<mark style="color:purple;">明显相交</mark>，考虑<mark style="color:purple;">曲直交点数</mark>](#user-content-fn-1)[^1]
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 数量规律
 
@@ -24,30 +24,30 @@
 
 元素组成：
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * 元素组成相同，优先考虑<mark style="color:purple;">位置规律</mark>
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 * 九宫格<mark style="color:purple;">优先横向看</mark>
 * 首要是<mark style="color:purple;">运算规律</mark>，<mark style="color:purple;">黑白运算</mark>
 
 <mark style="color:red;">难度系数：高</mark>
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 * 整体无规律，通过相邻比较发现，图1和图2只有第一行黑块位置不同（第一行黑白块颜色互换），其他四行黑块位置相同；图2和图3只有第二行黑块位置不同（第二行黑白块颜色互换），其他四行黑块位置相同；图3和图4只有第三行黑块位置不同（第三行黑白块颜色互换），其他四行黑块位置相同；图4和图5只有第四行黑块位置不同（第四行黑白块颜色互换），其他四行黑块位置相同，以此类推，？处应该选择一个和图5只有第五行黑块位置不同（第五行黑白块颜色互换），其他四行黑块位置相同的图形，只有C项符合。
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 * 对称轴经过4个黑球以及对称轴经过2个黑球
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -104,11 +104,11 @@ A、B<mark style="color:purple;">至多一个</mark>=><mark style="color:purple;
 {% step %}
 ### 空间类
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 * 根据纸箱数计算<mark style="color:purple;">剩余纸箱数</mark>，然后<mark style="color:purple;">根据选项判断</mark>放下剩余数量的合理情况。
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * 看公共边（由构成直角的两条边为公共边）
 {% endstep %}
@@ -133,11 +133,11 @@ A、B<mark style="color:purple;">至多一个</mark>=><mark style="color:purple;
 * 旋转角度 每一行或者先是第一行->右边第一列->最后一行->左边第一列
 * 有曲线有直线 考虑曲直交点
 
-<figure><img src="../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/193822517829836 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/193822517829836 (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/18689f00de48951.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/18689f00de48951.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
