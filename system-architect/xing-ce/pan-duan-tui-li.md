@@ -126,12 +126,19 @@ A、B<mark style="color:purple;">至多一个</mark>=><mark style="color:purple;
 {% step %}
 ### 总结
 
+
+
+* 空间重构类 找公共点引出的线
 * 等边三角形S=四分之根号3\*a平方
 * 面积法 黑色块面积
 * 切圆变形图，因此考虑笔画数
 * 交点在线段不同位置
 * 旋转角度 每一行或者先是第一行->右边第一列->最后一行->左边第一列
 * 有曲线有直线 考虑曲直交点
+
+
+
+<figure><img src="../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
 
