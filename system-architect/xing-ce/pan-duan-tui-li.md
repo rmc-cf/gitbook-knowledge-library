@@ -4,11 +4,11 @@
 {% step %}
 ### 图推
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>分为3个部分：面的种类</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>分为3个部分：面的种类</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>考虑对称轴</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>考虑对称轴</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -24,11 +24,11 @@
 
 元素组成：
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * 元素组成相同，优先考虑<mark style="color:purple;">位置规律</mark>
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 * 九宫格<mark style="color:purple;">优先横向看</mark>
 * 首要是<mark style="color:purple;">运算规律</mark>，<mark style="color:purple;">黑白运算</mark>
@@ -108,7 +108,7 @@ A、B<mark style="color:purple;">至多一个</mark>=><mark style="color:purple;
 
 * 根据纸箱数计算<mark style="color:purple;">剩余纸箱数</mark>，然后<mark style="color:purple;">根据选项判断</mark>放下剩余数量的合理情况。
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * 看公共边（由构成直角的两条边为公共边）
 {% endstep %}
