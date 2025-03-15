@@ -6,7 +6,7 @@
 
 方法：
 
-**霍尔三维结构（硬科学方法论）**
+**霍尔三维结构（硬科学方法论）（只食螺）**
 
 &#x20;关键点： 逻辑维 （解决问题的逻辑过程） 时间维 （工作进程） 知识维（专业科学知识）
 
@@ -24,7 +24,13 @@
 
 <mark style="color:purple;">**制造过程**</mark><mark style="color:purple;">与</mark><mark style="color:purple;">**支持过程**</mark><mark style="color:purple;">并行</mark>&#x20;
 
-**强调三个方面** <mark style="color:purple;">1 产品设计开发期间，最快速度按质完成 2 各项工作问题协调解决 3 适当的信息系统工具</mark>
+**强调三个方面**&#x20;
+
+<mark style="color:purple;">1 产品设计开发期间，最快速度按质完成</mark>&#x20;
+
+<mark style="color:purple;">2 各项工作问题协调解决</mark>&#x20;
+
+<mark style="color:purple;">3 适当的信息系统工具</mark>
 
 
 
