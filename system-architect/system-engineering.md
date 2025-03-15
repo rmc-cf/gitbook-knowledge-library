@@ -40,13 +40,13 @@
 
 <mark style="color:purple;">【简单系统】 和 【巨系统】 四原则（</mark><mark style="color:orange;">联动整序</mark><mark style="color:purple;">）：</mark>&#x20;
 
-<mark style="color:purple;">整体论原则 相互联系原则 有序性原则 动态原则</mark>
+<mark style="color:purple;">相互</mark><mark style="color:orange;">联</mark><mark style="color:purple;">系原则</mark> <mark style="color:orange;">动</mark><mark style="color:purple;">态原则</mark> <mark style="color:orange;">整</mark><mark style="color:purple;">体论原则  有</mark><mark style="color:orange;">序</mark><mark style="color:purple;">性原则</mark>
 
 
 
-**WSR系统方法**&#x20;
+**WSR系统方法** （<mark style="color:orange;">物事人</mark>）
 
-实践准则： <mark style="color:purple;">懂物理 明事理 通人理</mark>
+实践准则： <mark style="color:purple;">懂</mark><mark style="color:orange;">物</mark><mark style="color:purple;">理 明</mark><mark style="color:orange;">事</mark><mark style="color:purple;">理 通</mark><mark style="color:orange;">人</mark><mark style="color:purple;">理</mark>
 
 
 
@@ -60,13 +60,13 @@
 
 渐进迭代式开发&#x20;
 
-<mark style="color:purple;">精益开发</mark> 起源于<mark style="color:purple;">丰田 是一个动态的 知识驱动的 以客户为中心的过程</mark>&#x20;
+<mark style="color:purple;">精益开发</mark> 起源于<mark style="color:orange;">丰田</mark> <mark style="color:purple;">是一个</mark><mark style="color:orange;">动态</mark><mark style="color:purple;">的</mark> <mark style="color:orange;">知识驱动</mark><mark style="color:purple;">的 以</mark><mark style="color:orange;">客户</mark><mark style="color:purple;">为中心的过程</mark>&#x20;
 
 
 
 敏捷开发&#x20;
 
-更好的灵活性
+更好的<mark style="color:orange;">灵活性</mark>
 
 原则：&#x20;
 
@@ -84,11 +84,11 @@
 
 **软件开发方法** ☆☆&#x20;
 
-**结构化开发方法** <mark style="color:purple;">自顶向下 逐步分解，严格区分工作阶段，每阶段有任务与成果，强调系统开发过程的整体性和全局性，开发目标清晰化，工作阶段程式化，开发文档规范化，设计方法结构化。</mark>
+**结构化开发方法** <mark style="color:purple;">自顶向下 逐步分解，严格区分工作阶段，</mark><mark style="color:orange;">每阶段有</mark><mark style="color:purple;">任务与成果，强调系统开发过程的整体性和全局性，开发</mark><mark style="color:orange;">目标清晰化</mark><mark style="color:purple;">，工作阶段程式化，开发</mark><mark style="color:orange;">文档规范</mark><mark style="color:purple;">化，</mark><mark style="color:orange;">设计方法结构化</mark><mark style="color:purple;">。</mark>
 
 优点： <mark style="color:purple;">理论基础严密，他的指导思想是用户需求在系统建立之前就能被充分了解和理解。由此可见，结构化方法注重开发过程的整体性和全局性。</mark>
 
-缺点： <mark style="color:purple;">开发周期长；文档、设计说明繁琐，工作效率低；要求在开发之初全面认识系统的信息需求，充分预料各种可能发生的变化，并不现实；如有用户参与系统开发积极性没有调动，就会造成系统交接过程不平稳，使系统运行与维护管理难度加大。 阶段固化，应变能力差，适用于需求明确的开发场景。</mark>
+缺点： <mark style="color:purple;">开发</mark><mark style="color:orange;">周期长</mark><mark style="color:purple;">；文档、设计说明繁琐，工作</mark><mark style="color:orange;">效率低</mark><mark style="color:purple;">；要求在</mark><mark style="color:orange;">开发之初全面认识</mark><mark style="color:purple;">系统的信息需求，充分预料各种可能发生的变化，并不现实；如有用户参与系统开发积极性没有调动，就会造成系统交接过程不平稳，使系统运行与维护管理难度加大。 阶段固化，应变能力差，</mark><mark style="color:orange;">适用于需求明确</mark><mark style="color:purple;">的开发场景。</mark>
 
 
 
@@ -98,13 +98,13 @@
 
 按功能&#x20;
 
-<mark style="color:purple;">水平原型（界面） 垂直原型（复杂算法）</mark>
+<mark style="color:orange;">水平</mark><mark style="color:purple;">原型（界面）</mark> <mark style="color:orange;">垂直</mark><mark style="color:purple;">原型（复杂算法）</mark>
 
 按结果&#x20;
 
-<mark style="color:purple;">抛弃式原型：系统真正实现后就不用了</mark>&#x20;
+<mark style="color:orange;">抛弃</mark><mark style="color:purple;">式原型：系统真正实现后就不用了</mark>&#x20;
 
-<mark style="color:purple;">演化式原型：从目标系统的一个或几个基本需求出发，通过修改和追加功能逐渐丰富，演化成最终系统。</mark>
+<mark style="color:orange;">演化</mark><mark style="color:purple;">式原型：从目标系统的一个或几个基本需求出发，通过修改和追加功能逐渐丰富，演化成最终系统。</mark>
 
 
 
@@ -118,7 +118,7 @@
 
 OMT是<mark style="color:purple;">面向对象建模技术</mark>（<mark style="color:purple;">UML</mark>前身）。
 
-用OMT方法开发软件，通常需要建立三种形式的模型：<mark style="color:purple;">对象模型（描述系统数据结构）、动态模型（描述系统控制结构）、功能模型（描述系统功能）</mark>。
+用OMT方法开发软件，通常需要建立三种形式的模型：<mark style="color:orange;">对象</mark><mark style="color:purple;">模型（描述系统数据结构）、</mark><mark style="color:orange;">动态</mark><mark style="color:purple;">模型（描述系统控制结构）、</mark><mark style="color:orange;">功能</mark><mark style="color:purple;">模型（描述系统功能）</mark>。
 
 
 
@@ -160,13 +160,13 @@ OMT是<mark style="color:purple;">面向对象建模技术</mark>（<mark style=
 
 特征：
 
-&#x20;1 数据和模型是DSS的主要资源&#x20;
+&#x20;1 <mark style="color:orange;">数据和模型</mark>是DSS的主要资源&#x20;
 
-2 DSS用来支援用户做决策而不是代替用户做决策
+2 DSS用来<mark style="color:orange;">支援用户做决策</mark>而不是代替用户做决策
 
-&#x20;3 DSS主要解决<mark style="color:purple;">半结构化及非结构化问题</mark>&#x20;
+&#x20;3 DSS主要解决<mark style="color:orange;">半结构化及非结构化</mark><mark style="color:purple;">问题</mark>&#x20;
 
-4 DSS的作用在于<mark style="color:purple;">提高决策的有效性而不是提高决策的效率</mark>
+4 DSS的作用在于<mark style="color:orange;">提高决策的有效性</mark><mark style="color:purple;">而不是提高决策的效率</mark>
 
 
 
@@ -174,9 +174,9 @@ OMT是<mark style="color:purple;">面向对象建模技术</mark>（<mark style=
 
 内部具有<mark style="color:purple;">专家水平的大量知识与经验</mark> 进行判断与决策&#x20;
 
-可处理不确定的知识 适用于特定的区域&#x20;
+可处理<mark style="color:orange;">不确定的知识</mark> 适用于<mark style="color:orange;">特定的区域</mark>&#x20;
 
-关键点： 知识+推理 = 专家系统&#x20;
+关键点： <mark style="color:orange;">知识+推理</mark> = 专家系统&#x20;
 
 人工智能一个重要分支
 
