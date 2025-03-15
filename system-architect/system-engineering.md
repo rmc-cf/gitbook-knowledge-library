@@ -38,7 +38,9 @@
 
 <mark style="color:purple;">钱学森命名</mark>&#x20;
 
-<mark style="color:purple;">【简单系统】 和 【巨系统】 四原则： 整体论原则 相互联系原则 有序性原则 动态原则</mark>
+<mark style="color:purple;">【简单系统】 和 【巨系统】 四原则（</mark><mark style="color:orange;">联动整序</mark><mark style="color:purple;">）：</mark>&#x20;
+
+<mark style="color:purple;">整体论原则 相互联系原则 有序性原则 动态原则</mark>
 
 
 
