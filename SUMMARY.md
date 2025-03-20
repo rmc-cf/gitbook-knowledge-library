@@ -10,6 +10,8 @@
 ## 系统架构师备考 <a href="#system-architect" id="system-architect"></a>
 
 * [系统工程](system-architect/system-engineering.md)
+* [架构风格](system-architect/jia-gou-feng-ge.md)
+* [数据库](system-architect/shu-ju-ku.md)
 * [信息安全技术](system-architect/information-security-technology.md)
 
 ## 公共基础知识及申论 <a href="#public-information" id="public-information"></a>
