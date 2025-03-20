@@ -17,6 +17,11 @@
 * [数据库](system-architect/shu-ju-ku.md)
 * [信息安全技术](system-architect/information-security-technology.md)
 
+***
+
+* [小结](xiao-jie/README.md)
+  * [2025.2.10](xiao-jie/2025.2.10.md)
+
 ## 公共基础知识及申论 <a href="#public-information" id="public-information"></a>
 
 * [行测](public-information/xing-ce/README.md)
