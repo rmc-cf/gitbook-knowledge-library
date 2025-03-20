@@ -11,6 +11,9 @@
 
 * [系统工程](system-architect/system-engineering.md)
 * [架构风格](system-architect/jia-gou-feng-ge.md)
+* [Web应用系统架构设计](system-architect/web-ying-yong-xi-tong-jia-gou-she-ji.md)
+* [数据库架构建模](system-architect/shu-ju-ku-jia-gou-jian-mo.md)
+* [嵌入式架构系统设计](system-architect/qian-ru-shi-jia-gou-xi-tong-she-ji.md)
 * [数据库](system-architect/shu-ju-ku.md)
 * [信息安全技术](system-architect/information-security-technology.md)
 
