@@ -9,6 +9,7 @@
 
 ## 系统架构师备考 <a href="#system-architect" id="system-architect"></a>
 
+* [考点](system-architect/kao-dian.md)
 * [系统工程](system-architect/system-engineering.md)
 * [架构风格](system-architect/jia-gou-feng-ge.md)
 * [Web应用系统架构设计](system-architect/web-ying-yong-xi-tong-jia-gou-she-ji.md)
@@ -20,6 +21,7 @@
 ***
 
 * [案例简答](an-li-jian-da.md)
+* [大数据](da-shu-ju.md)
 * [小结](xiao-jie/README.md)
   * [2025.2.10](xiao-jie/2025.2.10.md)
   * [2025.2.11](xiao-jie/2025.2.11.md)
