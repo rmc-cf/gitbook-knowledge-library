@@ -28,19 +28,19 @@
 
 * <mark style="color:purple;">**批处理层**</mark>(Batch Layer)：两个核心功能，<mark style="color:purple;">存储数据集</mark>和<mark style="color:purple;">生成Batch View</mark>。
 * <mark style="color:purple;">**加速层**</mark>(Speed Layer)：<mark style="color:purple;">存储实时视图并处理传入的数据流，以便更新这些视图</mark>。
-* **服务层**(Serving Layer)：用于响应用户的查询请求，合并 Batch View 和 Real-time View 中的结果数据集到最终的数据集。
+* <mark style="color:purple;">**服务层**</mark>(Serving Layer)：用于<mark style="color:purple;">响应用户的查询请求</mark>，<mark style="color:purple;">合并 Batch View 和 Real-time View 中的结果数据集</mark>到最终的数据集。
 
 
 
 
 
-## Kappa架构
+## Kappa架构（shiwu树）（实时服务数据）
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-* 输入数据直接由实时层的实时数据处理引擎对源源不断的源数据进行处理;
+* 输入数据直接由实时层的<mark style="color:purple;">实时数据处理引擎</mark>对源源不断的源数据进行处理;
 * 再由服务层的服务后端进一步处理以提供上层的业务查询。
-* 而中间结果的数据都是需要存储的，这些数据包括历史数据与结果数据，统一存储在存储介质中。
+* 而<mark style="color:purple;">中间结果的数据都是需要存储</mark>的，这些数据<mark style="color:purple;">包括历史数据与结果数据</mark>，统一<mark style="color:purple;">存储在存储介质</mark>中。
 
 #### 4.2 优缺点 <a href="#id-42__72" id="id-42__72"></a>
 
@@ -52,13 +52,13 @@
  (2)在实时数据处理时，遇到大量不同的实时流进行关联时，非常依赖实时计算系统的能力，很可能因为数据流先后顺序问题，导致数据丢失。\
  (3)Kappa在抛弃了离线数据处理模块的时候，同时抛弃了离线计算更加稳定可靠的特点。
 
-### Lambda架构与Kappa架构对比 
+### Lambda架构与Kappa架构对比
 
-| 对比内容     | Lambda架构                                              | Kappa架构                                                    |
-| -------- | ----------------------------------------------------- | ---------------------------------------------------------- |
-| 复杂度      | 需要维护两套系统(引擎)，复杂度高                                     | 只需要维护一套系统(引擎)，复杂度低                                         |
-| 开发、维护成本  | 开发、维护成本高                                              | 开发、维护成本低                                                   |
-| 计算开销     | 需要一直运行批处理和实时计算，计算开销大                                  | 必要时进行全量计算，计算开销相对较小                                         |
-| 实时性      | 满足实时性                                                 | 满足实时性                                                      |
-| 历史数据处理能力 | 批式全量处理，吞吐量大，历史数据处理能力强                                 | 流式全量处理，吞吐量相对较低，历史数据处理相对较弱                                  |
-| 使用场景     | 直接支持批处理，更适合对历史数据分析查询的场景，期望尽快得到分析结果，批处理可以更直接高效地满足这些需求。 | 不是Lambda的替代架构，而是简化， Kappa放弃了对批处理的支持，更擅长业务本身为增量数据写入场景的分析需求。 |
+| 对比内容     | Lambda架构                                                                                                                       | Kappa架构                                                                                                                                                             |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 复杂度      | 需要<mark style="color:purple;">维护两套系统</mark>(引擎)，<mark style="color:purple;">复杂度高</mark>                                        | 只需要<mark style="color:purple;">维护一套系统</mark>(引擎)，<mark style="color:purple;">复杂度低</mark>                                                                            |
+| 开发、维护成本  | <mark style="color:purple;">开发、维护成本高</mark>                                                                                    | <mark style="color:purple;">开发、维护成本低</mark>                                                                                                                         |
+| 计算开销     | 需要一直运行<mark style="color:purple;">批处理和实时计算</mark>，计算开销大                                                                        | <mark style="color:purple;">必要时</mark>进行<mark style="color:purple;">全量计算</mark>，计算开销相对较小                                                                            |
+| 实时性      | 满足<mark style="color:purple;">实时</mark>性                                                                                       | 满足<mark style="color:purple;">实时</mark>性                                                                                                                            |
+| 历史数据处理能力 | <mark style="color:purple;">批式全量处理</mark>，<mark style="color:purple;">吞吐量大</mark>，历史数据处理能力<mark style="color:purple;">强</mark> | <mark style="color:purple;">流式全量处理</mark>，<mark style="color:purple;">吞吐量相对较低</mark>，历史数据处理相对较<mark style="color:purple;">弱</mark>                                  |
+| 使用场景     | 直接支持批处理，更<mark style="color:purple;">适合对历史数据分析查询</mark>的场景，期望<mark style="color:purple;">尽快得到分析结果</mark>，批处理可以更直接高效地满足这些需求。    | <mark style="color:purple;">不是</mark>Lambda的<mark style="color:purple;">替代</mark>架构，而是简化， Kappa放弃了对批处理的支持，更擅长业务本身为增量数据<mark style="color:purple;">写入场景</mark>的分析需求。 |
