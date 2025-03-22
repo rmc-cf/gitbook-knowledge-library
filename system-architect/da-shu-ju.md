@@ -8,7 +8,7 @@
 4. **随机查询NoSQL：包括Hbase、Cassandra等**
 5. **挖掘、机器学习和深度学习等技术：包括TensorFlow、caffe、mahout**
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **HDFS**：(<mark style="color:purple;">Hadoop分布式文件系统</mark>)，它可以用来<mark style="color:purple;">存储海量数据</mark>，适合运行在通用硬件上的分布式文件系统(Distributed File System)。HDFS是一个<mark style="color:purple;">高度容错性</mark>的系统，适合<mark style="color:purple;">部署在廉价的机器</mark>上。 HDFS能<mark style="color:purple;">提供高吞吐量的数据访问，非常适合大规模数据集上的应用</mark>，【通常用于处理<mark style="color:purple;">离线数据的存储</mark>】。
 
@@ -26,7 +26,7 @@
 
 生成存储、存储更新、响应合并
 
-<figure><img src=".gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
 
 * <mark style="color:purple;">**批处理层**</mark>(Batch Layer)：两个核心功能，<mark style="color:purple;">存储数据集</mark>和<mark style="color:purple;">生成Batch View</mark>。
 * <mark style="color:purple;">**加速层**</mark>(Speed Layer)：<mark style="color:purple;">存储实时视图并处理传入的数据流，以便更新这些视图</mark>。
@@ -44,7 +44,7 @@
 
 ## Kappa架构（shiwu树）（实时服务数据）
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 * 输入数据直接由实时层的<mark style="color:purple;">实时数据处理引擎</mark>对源源不断的源数据进行处理;
 * 再由服务层的服务后端进一步处理以提供上层的业务查询。

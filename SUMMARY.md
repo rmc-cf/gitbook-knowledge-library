@@ -17,11 +17,12 @@
 * [嵌入式架构系统设计](system-architect/qian-ru-shi-jia-gou-xi-tong-she-ji.md)
 * [数据库](system-architect/shu-ju-ku.md)
 * [信息安全技术](system-architect/information-security-technology.md)
+* [大数据](system-architect/da-shu-ju.md)
 
 ***
 
 * [案例简答](an-li-jian-da.md)
-* [大数据](da-shu-ju.md)
+* [论文](lun-wen.md)
 * [小结](xiao-jie/README.md)
   * [2025.2.10](xiao-jie/2025.2.10.md)
   * [2025.2.11](xiao-jie/2025.2.11.md)
