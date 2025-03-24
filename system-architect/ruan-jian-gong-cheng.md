@@ -178,3 +178,106 @@
 常见方法：用户<mark style="color:purple;">面谈</mark>、需求<mark style="color:purple;">专题讨论会</mark>、问卷调查、现场观察、原型化方法、<mark style="color:purple;">头脑风暴</mark>法
 
 * 软件需求文档应该精确描述要交付的产品 这是一个基本原则，严格控制软件项目
+
+## 需求追踪
+
+（1）正向跟踪
+
+检查<mark style="color:purple;">《产品需求规格说明书》</mark>中的每个需求是否能在<mark style="color:purple;">后继工作成果中找到对应点</mark>
+
+（2）逆向跟踪
+
+检查设计文档、代码、测试用例等<mark style="color:purple;">工作成果</mark>是否都能<mark style="color:purple;">在《产品需求规格说明书》找到出处</mark>
+
+* 正向跟踪和逆向跟踪合称为“双向跟踪”
+* <mark style="color:purple;">需求跟踪矩阵</mark>保存<mark style="color:purple;">了需求与后继工作成果</mark>的对应关系
+* 使用<mark style="color:purple;">配置管理工具</mark>实现<mark style="color:purple;">需求跟踪</mark>
+
+### 结构化方法SASD
+
+<mark style="color:purple;">面向功能</mark>的软件开发方法或<mark style="color:purple;">面向数据流</mark>的软件开发方法
+
+结构化开发方法提出了一组<mark style="color:purple;">提高软件结构合理性</mark>的准则
+
+针对软件生存周期各个不同阶段有（1）结构化分析SA（2）结构化设计（SD）（3）结构化编程（SP）
+
+
+
+### 数据流图DFD
+
+也称为<mark style="color:purple;">过程建模</mark>和<mark style="color:purple;">功能建模</mark>方法
+
+核心是<mark style="color:purple;">数据流</mark>
+
+以图形方式刻画和表示一个具体业务中<mark style="color:purple;">数据处理过程</mark>和<mark style="color:purple;">数据流</mark>&#x20;
+
+由4中基本元素组成：数据流、处理/加工、数据存储和外部项
+
+* 数据流：用一个<mark style="color:purple;">箭头描述数据的流向</mark> 箭头上标注的内容可以是<mark style="color:purple;">信息说明或数据项</mark>
+* 处理：表示对数据的<mark style="color:purple;">加工和转换</mark>，用矩形框表示，<mark style="color:purple;">指向</mark>处理的数据流为该处理的<mark style="color:purple;">输入数据</mark>，<mark style="color:purple;">离开</mark>处理的数据流为该处理的<mark style="color:purple;">输出数据</mark>。
+* 数据存储：表示用<mark style="color:purple;">数据库形式</mark>（或者<mark style="color:purple;">文件形式存储</mark>的数据），对其进行的存取分别指向或离开数据存储的箭头表示。
+* 外部项：也称为<mark style="color:purple;">数据源</mark>或者<mark style="color:purple;">数据终点</mark>。描述系统数据的提供者或者数据的使用者。用<mark style="color:purple;">圆角框</mark>或者<mark style="color:purple;">平行四边形框</mark>表示。
+
+建立[DFD](ruan-jian-gong-cheng.md#shu-ju-liu-tu-dfd)图的目的是描述系统的功能需求
+
+建模过程和步骤：
+
+（1）明确目标 确定系统范围
+
+（2）建立顶层DFD图
+
+（3）构建第一层DFD分解图
+
+（4）开发DFD层次结构图
+
+（5）检查确认DFD图
+
+顶层图被逐渐细化
+
+### 数据字典
+
+用户可以访问的记录数据库和应用程序元数据的目录。目的是对数据流程图中的各个元素做出详细的说明。数据字典是对描述数据的信息集合，是对系统中使用的所有数据元素定义的集合。
+
+* 数据字典是对系统中使用所有数据元素定义的集合
+* 最重要的作用是作为分析阶段中的工具。给数据流图上每个元素加以定义和说明。数据流图上所有元素的定义和解释的文字集合就是数据字典。
+
+各部分描述：
+
+（1）数据项：图中数据块数据项说明。不可再分的数据单位。若干数据项构成一个数据结构
+
+（2）数据结构：反映数据之间的组合关系
+
+（3）数据流：是数据结构在系统内传输的路径。
+
+（4）数据存储：数据流图中数据块的数据存储特性说明。数据流的来源和去向之一。
+
+（5）处理过程：功能块的说明。
+
+### 结构化设计SD
+
+面向<mark style="color:purple;">数据流</mark>的方法 以<mark style="color:purple;">数据流图和数据字典</mark>等文档作为<mark style="color:purple;">基础</mark>
+
+### <mark style="color:purple;">耦合</mark>&#x20;
+
+<mark style="color:purple;">从低到高</mark>
+
+* 非直接耦合：两个模块之间没有直接关系
+* 数据耦合：一组模块借助<mark style="color:purple;">参数表传递简单数据</mark>
+* 标记耦合：一组模块通过<mark style="color:purple;">参数表传递记录复杂数据</mark>（<mark style="color:purple;">数据结构</mark>）
+* 控制耦合：模块之间传递的信息中包含用于<mark style="color:purple;">控制模块内部逻辑</mark>的信息
+* 通信耦合：一组模块共用了一组输入信息，或者它们的输出<mark style="color:purple;">需要整合</mark>以形成完整数据，即<mark style="color:purple;">共享了输入或输出</mark>。
+* 公共耦合：多个模块都<mark style="color:purple;">访问同一个公共数据环境</mark>，公共的数据环境可以是<mark style="color:purple;">全局数据结构、共享的通信区、内存的公共覆盖区</mark>等。
+* 内容耦合：一个模块<mark style="color:purple;">直接访问另一个模块的内部数据</mark>；一个模块不通过正常入口转到另一个模块内部；两个模块有一部<mark style="color:purple;">分程序代码重叠</mark>；一个模块有<mark style="color:purple;">多个入口</mark>等
+
+### <mark style="color:purple;">聚合</mark>
+
+从高到低
+
+* 功能内聚：完成<mark style="color:purple;">单一功能</mark>，各个部分<mark style="color:purple;">协同工作，缺一不可</mark>
+* 顺序内聚：处理<mark style="color:purple;">元素相关</mark>，必须<mark style="color:purple;">顺序执行</mark>
+* 通信内聚：所有处理元素<mark style="color:purple;">集中在一个数据结构区域</mark>上
+* 过程内聚：处理<mark style="color:purple;">元素相关</mark>，必须按<mark style="color:purple;">特定次序</mark>执行
+* 时间内聚：必须在<mark style="color:purple;">同一时间间隔内</mark>执行
+* 逻辑内聚：<mark style="color:purple;">逻辑上相关</mark>的一组任务
+* 偶然内聚：一组<mark style="color:purple;">没有关系或松散关系</mark>的任务
+
