@@ -10,6 +10,7 @@
 ## 系统架构师备考 <a href="#system-architect" id="system-architect"></a>
 
 * [考点](system-architect/kao-dian.md)
+* [软件工程](system-architect/ruan-jian-gong-cheng.md)
 * [系统工程](system-architect/system-engineering.md)
 * [架构风格](system-architect/jia-gou-feng-ge.md)
 * [Web应用系统架构设计](system-architect/web-ying-yong-xi-tong-jia-gou-she-ji.md)
