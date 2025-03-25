@@ -11,6 +11,7 @@
 
 * [考点](system-architect/kao-dian.md)
 * [软件工程](system-architect/ruan-jian-gong-cheng.md)
+* [项目管理](system-architect/xiang-mu-guan-li.md)
 * [系统工程](system-architect/system-engineering.md)
 * [架构风格](system-architect/jia-gou-feng-ge.md)
 * [Web应用系统架构设计](system-architect/web-ying-yong-xi-tong-jia-gou-she-ji.md)
