@@ -4,26 +4,36 @@
 
 项目<mark style="color:purple;">范围定义</mark>是<mark style="color:purple;">生产项目计划</mark>的<mark style="color:purple;">基础</mark>。
 
-步骤：范围计划编制->范围定义->创建WBS->范围确认->范围控制
+步骤：<mark style="color:purple;">范围计划编制->范围定义->创建WBS->范围确认->范围控制</mark>
 
 范围管理就是要<mark style="color:purple;">确定项目的边界</mark>，即，要确定哪些工作是项目应该做的，哪些工作不应该包括在项目中。这个过程用于确保项目干系人对作为项目结果的产品或服务，以及开发这些产品所确定的过程有一个共同的理解。
 
 WBS，工作分解结构，把项目整体或者主要的可交付成果分解成<mark style="color:purple;">容易管理、方便控制</mark>的若干个子项目，子项目需要继续<mark style="color:purple;">分解为工作包</mark>。持续这个过程，直到整个项目都分解为<mark style="color:purple;">可管理的工作包</mark>，这些工作包的总和就是项目的<mark style="color:purple;">所有工作范围</mark>。创建WBS的目的是<mark style="color:purple;">详细规定项目的范围</mark>，<mark style="color:purple;">建立范围基准</mark>。
 
-常用方法：专家估算、三点估算法、功能点估算、自上而下估算、自下而上估算。其中常用的是三点估算法，其公式为：
+常用方法：<mark style="color:purple;">专家估算、三点估算法、功能点估算、自上而下估算、自下而上估算</mark>。其中常用的是三点估算法，其公式为：
+
+<div data-full-width="true"><figure><img src="../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure></div>
+
+采用分解技术来定义活动，就是要把项目工作包<mark style="color:purple;">分解成更小的、更易于管理的组成部分，即活动</mark>。为完成工作包而必须开展的工作。定义活动过程最终输出的是<mark style="color:purple;">活动</mark>，而非可交付成果。<mark style="color:purple;">可交付成果是创建工作分解结构过程的输出</mark>。
+
+WBS、WBS词典与活动清单，既可依次编制，也可同时编制。WBS和WBS词典是制定最终活动清单的依据。WBS中的每个工作包都需分解成活动，以便通过这些活动来完成相应的可交付成果。让团队成员参与分解，有助于得到更好更准确的结果。
+
+WBS分解的<mark style="color:purple;">基本要求</mark>：
+
+<mark style="color:blue;">WBS的工作包是可控和可管理的，不能过于复杂</mark>\ <mark style="color:blue;">任务分解也不能过细，一般原则WBS的树形结构不超过6层</mark>\ <mark style="color:blue;">每个工作包要有一个交付成果</mark>\ <mark style="color:blue;">每个任务必须有明确定义的完成标准</mark>\ <mark style="color:blue;">WBS必须有利于责任分配</mark>
 
 制定进度计划：\
-关键路径法（CPM）：是项目整个路径中最长的路径，是项目完成的最短时间。关键路径可以有多个，但是越多，项目风险越大。向关键路径要时间，向非关键路径要资源。
+关键路径法（CPM）：是项目整个路径中<mark style="color:purple;">最长的路径</mark>，是项目<mark style="color:purple;">完成的最短时间</mark>。<mark style="color:purple;">关键路径可以有多个，但是越多，项目风险越大</mark>。向关键路径要时间，向<mark style="color:purple;">非关键路径要资源</mark>。
 
-总时差【即：松弛时间】：在不延误总工期的前提下，该活动的机动时间。活动的总时差等于该活动最迟完成时间与最早完成时间之差，或该活动最迟开始时间与最早考试时间之差。
+总时差【即：松弛时间】：在<mark style="color:purple;">不延误总工期</mark>的前提下，该活动的<mark style="color:purple;">机动时间</mark>。活动的总时差等于该活动最迟完成时间与最早完成时间之差，或该活动最迟开始时间与最早考试时间之差。
 
-**Gantt**甘特图，又称为横道图、条状图（Bar chart），通过条状图来显示项目、进度和其他时间相关的系统进展的内在关系随着时间进展的情况。以提出者亨利·劳伦斯·甘特（Henry Laurence Gantt）先生的名字命名。
+**Gantt**甘特图，又称为横道图、条状图（Bar chart），通过条状图来显示<mark style="color:purple;">项目、进度和其他时间相关的系统进展</mark>的内在关系随着时间进展的情况。以提出者亨利·劳伦斯·甘特（Henry Laurence Gantt）先生的名字命名。
 
 甘特图按内容不同，分为计划图表、负荷图表、机器闲置图表、人员闲置图表和进度表五种形式。
 
-优点：甘特图直观简单，易制作及理解，能很清晰地表示出每一项任务的起始时间与结束时间，一般适用比较简单的小型项目，可用于WBS的任何层次、进度控制、资源优化、编制资源和费用计划。
+优点：甘特图<mark style="color:purple;">直观简单，易制作及理解</mark>，能很清晰地表示出<mark style="color:purple;">每一项任务的起始时间与结束时间</mark>，一般<mark style="color:purple;">适用比较简单的小型项目</mark>，可用于WBS的任何层次、<mark style="color:purple;">进度控制、资源优化、编制资源和费用计划</mark>。
 
-缺点：不能系统的表达一个项目所包含的各项工作之间的复杂关系，难以进行定量的计算和分析，以及计划的优化等。
+缺点：<mark style="color:purple;">不能系统的表达</mark>一个项目所包含的<mark style="color:purple;">各项工作之间的复杂关系</mark>，<mark style="color:purple;">难以进行定量的计算和分析</mark>，以及计划的优化等。
 
 
 

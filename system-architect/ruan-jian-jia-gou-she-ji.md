@@ -39,15 +39,15 @@
 
 仓库分为数据库系统和黑板系统
 
-数据库系统：以数据为中心
+数据库系统：以<mark style="color:purple;">数据</mark>为中心
 
-黑板系统：可更改性和可重用性、可重用的知识源，容错性和健壮性，使用中心数据触发内部逻辑部件
+黑板系统：<mark style="color:purple;">可更改性和可重用性</mark>、可<mark style="color:purple;">重用的知识源</mark>，容错性和健壮性，使用中心数据触发内部逻辑部件
 
-缺点：测试困难;不能保证有好的解决方案;难以建立好的控制策略，低效，开发困难;缺少并行机制
+缺点：测试困难;<mark style="color:purple;">不能</mark>保证<mark style="color:purple;">有好的解决方案</mark>;<mark style="color:purple;">难以建立</mark>好的<mark style="color:purple;">控制策略，低效，开发困难</mark>;<mark style="color:purple;">缺少并行</mark>机制
 
-**闭环控制架构(过程控制)**：解决简单闭环控制问题
+**闭环控制架构(过程控制)**：<mark style="color:purple;">解决简单闭环控制问题</mark>
 
-简单案例：空调温控、定速巡航
+简单案例：<mark style="color:purple;">空调温控、定速巡航</mark>
 
 ### **C2风格**
 
@@ -58,18 +58,18 @@ C2架构的基本规则:\
 
 ### 层次架构风格
 
-构件组成一个层次结构，连接件通过决定层间如何交互的协议来定义。每层为上一层提供服务，使用下一层的服务，只能见到与自已邻接的层。通过层次结构，可以将大的问题分解为若干个渐进的小问题逐步解决，可以隐藏问题的复杂度。修改某一层，最多影响其相邻的两层（通常只能影响上层）。
+构件组成一个层次结构，连接件通过<mark style="color:purple;">决定层间如何交互的协议</mark>来定义。每层<mark style="color:purple;">为上一层提供服务</mark>，<mark style="color:purple;">使用下一层的服务</mark>，<mark style="color:purple;">只能见到</mark>与自已<mark style="color:purple;">邻接的层</mark>。通过层次结构，可以将大的问题分解为若干个渐进的小问题逐步解决，可以隐藏问题的复杂度。修改某一层，最多影响其相邻的两层（通常只能影响上层）。
 
 层次结构优点：
 
-1. 支持基于可增加抽象层的设计，允许将一个复杂问题分解成一个增量步骤序列的实现。
+1. 支持基<mark style="color:purple;">于可增加抽象层</mark>的设计，允许将一个复杂问题<mark style="color:purple;">分解成一个增量步骤序列</mark>的实现。
 2. 不同的层次处于不同的抽象级别，越靠近底层，抽象级别越高；越靠近顶层，抽象级别越低。
-3. 由于每一层最多只影响两层，同时只要给相邻层提供相同的接口，允许每层用不同的方法实现，同样为软件复用提供了强大的支持。
+3. 由于每一层<mark style="color:purple;">最多只影响两层</mark>，同时只要给相邻层提供相同的接口，允许每层用不同的方法实现，同样为软件复用提供了强大的支持。
 
 缺点：
 
-1. 并不是每个系统都可以很容易的划分为分层的模式。
-2. 很难找到一个合适的、正确的层次抽象方法。
+1. 并<mark style="color:purple;">不是</mark>每个系统都可以很<mark style="color:purple;">容易的划分为分层</mark>的模式。
+2. <mark style="color:purple;">很难找到</mark>一个<mark style="color:purple;">合适的、正确的</mark>层次抽象方法。
 
 
 
