@@ -140,7 +140,7 @@ Chinese Wall 模型&#x20;
 
 特点： <mark style="color:purple;">去中心化 开发性 自治性 安全性（信息不可纂改） 匿名性（去信任）</mark>
 
-分类： <mark style="color:blue;">公有链 私有链 联盟链d</mark>
+分类： <mark style="color:blue;">公有链 私有链 联盟链</mark>
 
 asdsadd
 
