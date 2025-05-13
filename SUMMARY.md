@@ -35,7 +35,8 @@
 
 ***
 
-* [案例简答](an-li-jian-da.md)
+* [案例简答](case/README.md)
+  * [小结](case/summary.md)
 * [论文](lun-wen.md)
 * [小结](xiao-jie/README.md)
   * [2025.2.10](xiao-jie/2025.2.10.md)
@@ -43,7 +44,6 @@
   * [2025.3.21](xiao-jie/2025.3.21.md)
   * [2025.3.23](xiao-jie/2025.3.23.md)
   * [2025-4-24](xiao-jie/2025-4-24.md)
-  * [Page](xiao-jie/page.md)
 
 ## 公共基础知识及申论 <a href="#public-information" id="public-information"></a>
 
