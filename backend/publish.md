@@ -1,6 +1,6 @@
 ---
 description: Python api Refenence Link:https://fastapi.tiangolo.com/
-icon: globe-pointer
+icon: face-hand-peeking
 ---
 
 # FastAPI
