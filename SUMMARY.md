@@ -60,6 +60,7 @@
   * [数量关系](public-information/xing-ce/shu-liang-guan-xi.md)
   * [判断推理](public-information/xing-ce/pan-duan-tui-li.md)
 * [申论](public-information/shen-lun/README.md)
+  * [写作格式](public-information/shen-lun/xie-zuo-ge-shi.md)
   * [作文](public-information/shen-lun/zuo-wen.md)
 * [小结](public-information/tips/README.md)
   * [2025.2.10](public-information/tips/2025.2.10.md)
