@@ -67,6 +67,18 @@
   * [2025.2.11](public-information/tips/2025.2.11.md)
   * [2025.3.22](public-information/tips/2025.3.22.md)
 
+## 军队文职 <a href="#junduiewnzhi" id="junduiewnzhi"></a>
+
+* [数学一](junduiewnzhi/shu-xue-yi/README.md)
+  * [概率论与数理统计](junduiewnzhi/shu-xue-yi/gaillun-yu-shu-li-tong-ji.md)
+  * [？？？](junduiewnzhi/shu-xue-yi/lalognosis.md)
+  * [导数](junduiewnzhi/shu-xue-yi/data-analysis.md)
+  * [随机变量及其分布](junduiewnzhi/shu-xue-yi/sui-ji-bian-liang-ji-qi-fen-bu.md)
+  * [方差](junduiewnzhi/shu-xue-yi/fang-cha.md)
+  * [微分方程](junduiewnzhi/shu-xue-yi/wei-fen-fang-cheng.md)
+  * [无穷级数](junduiewnzhi/shu-xue-yi/wu-qiong-ji-shu.md)
+  * [矩阵](junduiewnzhi/shu-xue-yi/ju-zhen.md)
+
 ***
 
 * [💪 和我一起](he-wo-yi-qi.md)
