@@ -74,7 +74,6 @@
   * [？？？](junduiewnzhi/shu-xue-yi/lalognosis.md)
   * [导数](junduiewnzhi/shu-xue-yi/data-analysis.md)
   * [随机变量及其分布](junduiewnzhi/shu-xue-yi/sui-ji-bian-liang-ji-qi-fen-bu.md)
-  * [方差](junduiewnzhi/shu-xue-yi/fang-cha.md)
   * [微分方程](junduiewnzhi/shu-xue-yi/wei-fen-fang-cheng.md)
   * [无穷级数](junduiewnzhi/shu-xue-yi/wu-qiong-ji-shu.md)
   * [矩阵](junduiewnzhi/shu-xue-yi/ju-zhen.md)
