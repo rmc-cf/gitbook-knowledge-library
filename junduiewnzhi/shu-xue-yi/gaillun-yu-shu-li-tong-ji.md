@@ -38,6 +38,53 @@
 
 * 记住用占比的方式
 
+### 分布的性质、计算
+
+* 满足：
+
+<figure><img src="../../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
+
+### 一维随机变量函数
+
+连续型随机变量X的分布函数为FX(X)，则Y=1-(e^x)的分布函数是
+
+*   关键点：单调减函数⇒ P{Y<=y}=P{1-e^x<=y}
+
+    <figure><img src="../../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
+
+### 参数估计
+
+#### 伽马分布
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure>
+
+* 伽马分布，看x的幂⇒ 1 ⇒ k-1 ⇒ k=2
+* 所以样本均值x⇒ k/入
+
+#### 相关系数
+
+x与y相互独立⇒ 随机变量x,y的相关系数 ρxy=0，充分不必要条件，因为y的取值对x的取值分布有影响
+
+#### θ的矩阵估计值
+
+* E(x)⇒ 分布律X\*pk之和，均值x=总体X的样本值的平均值
+* θ=(1-E(x))/5
+
+
+
+### 抽样统计
+
+* 分层抽样：由于两边差异明显，取份不一样⇒ 先分类，每层内部抽样，适合总体内部差异大
+* 系统抽样：先排序，按固定间隔抽，适合总体均匀，没有明显分类⇒ 等距抽样
+* 简单随机抽样：每个个体被抽到概率相等⇒ 总体数量比较小好用，不分组不分层不排序
+
+### 随机事件及其运算
+
+#### 条件概率
+
+* 已知目标被击中，则被甲射中概率，甲射中概率|被射中概率⇒ 甲概率+乙概率-甲乙共同概率=被射中概率⇒ 甲概率/被射中概率
+*
+
 ### 分布
 
 #### 离散型分布
@@ -68,7 +115,7 @@ E期望 D方差
   * E(XY)⇒ E(X)E(Y)
   *   D(X+Y)⇒ D(X)+D(Y)
 
-      <figure><img src="../../.gitbook/assets/image (80).png" alt=""><figcaption></figcaption></figure>
+      <figure><img src="../../.gitbook/assets/image (80).png" alt="" width="375"><figcaption></figcaption></figure>
 
 #### 卡方分布
 
@@ -76,5 +123,16 @@ E期望 D方差
 
 ### 样本均值
 
-<figure><img src="../../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt="" width="375"><figcaption></figcaption></figure>
+
+### 简单概型
+
+* P(AB^-) = P(A)-P(AB)
+* P(AB) = P(A)+P(B)-P(AUB)
+
+#### 排列组合
+
+*
+
+    <figure><img src="../../.gitbook/assets/image (81).png" alt="" width="375"><figcaption></figcaption></figure>
 
