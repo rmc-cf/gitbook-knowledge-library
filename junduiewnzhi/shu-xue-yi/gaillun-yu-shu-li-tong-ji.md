@@ -54,6 +54,11 @@
 
 ### 参数估计
 
+#### 三大抽样分布
+
+* t分布：X服从标准正态分布N(0,1)，Y服从x^2(n)分布，那么Z=X/根号(Y/N)的分布作为t分布，作为Z\~t(n)
+* x^2卡方分布：独立标准正态平方相加
+
 #### 伽马分布
 
 <figure><img src="../../.gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure>
