@@ -140,4 +140,4 @@ E期望 D方差
 *
 
     <figure><img src="../../.gitbook/assets/image (81).png" alt="" width="375"><figcaption></figcaption></figure>
-
+* 标准差-μ/s根号(n)
